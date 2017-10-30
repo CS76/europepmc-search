@@ -1,6 +1,16 @@
-# data-finder
+# europepmc-search
 
 > Web application to scrape data from journals/articles
+
+Demo: https://cs76.github.io/europepmc-search/
+
+### Features
+- Multiple search terms
+- Easy to view text-mined chemical terms
+- Save Articles
+
+### Todo Features
+- Multiple search results ranking implementation
 
 ## Build Setup
 
@@ -26,5 +36,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
